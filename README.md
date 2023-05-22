@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <h1>Blockchain Code Repository</h1>
+  <h1>Blockchain Design and PoW Simulation</h1>
   <h2>Introduction</h2>
   <p>
     This code repository contains an implementation of a basic blockchain using Proof of Work (PoW) consensus mechanism. The blockchain is built using Python and includes functionalities to create and add blocks to the chain, as well as simulate the mining process with PoW.

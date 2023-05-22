@@ -3,7 +3,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Blockchain Code Repository</title>
 </head>
 <body>
   <h1>Blockchain Code Repository</h1>

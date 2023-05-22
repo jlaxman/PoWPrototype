@@ -23,7 +23,6 @@
   </p>
   <ul>
     <li><code>hashlib</code>: Used for hashing data.</li>
-    <li><code>ipyparallel</code>: Required for parallel computing (used for demonstration purposes).</li>
     <li><code>numpy</code>: Used for array operations.</li>
     <li><code>matplotlib</code>: Used for data visualization.</li>
   </ul>
